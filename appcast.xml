@@ -9,10 +9,10 @@
             <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="1.0.7" sparkle:os="iOS" />
         </item>
         <item>
-            <title>Version 1.0.7</title>
-            <description>Update for logical function</description>
-            <pubDate>Tue, 07 Jan 2024 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="1.0.7" sparkle:os="android" />
+            <title>Version 1.0.8</title>
+            <description>Update For Better UX</description>
+            <pubDate>Tue, 09 Jan 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="1.0.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
