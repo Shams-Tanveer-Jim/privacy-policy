@@ -3,16 +3,16 @@
     <channel>
         <title>Smart Election Management BD</title>
         <item>
-            <title>Version 2.0.5</title>
-            <description>Correcting some API issues and adding more information. Improving UX</description>
-            <pubDate>Tue, 14 May 2024 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="2.0.5" sparkle:os="iOS" />
+            <title>Version 2.0.6</title>
+            <description>Correcting some language and UI issues</description>
+            <pubDate>Fri, 24 May 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="2.0.6" sparkle:os="iOS" />
         </item>
         <item>
-            <title>Version 2.0.5</title>
-            <description>Correcting some API issues and adding more information. Improving UX</description>
-            <pubDate>Tue, 14 May 2024 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="2.0.5" sparkle:os="android" />
+            <title>Version 2.0.6</title>
+            <description>Correcting some language and UI issues</description>
+            <pubDate>Fri, 24 May 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="2.0.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
