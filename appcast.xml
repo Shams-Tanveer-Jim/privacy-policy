@@ -3,10 +3,10 @@
     <channel>
         <title>Smart Election Management BD</title>
         <item>
-            <title>Version 2.0.6</title>
+            <title>Version 2.0.7</title>
             <description>Correcting some language and UI issues</description>
-            <pubDate>Fri, 24 May 2024 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="2.0.6" sparkle:os="iOS" />
+            <pubDate>Wed, 28 Aug 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="2.0.7" sparkle:os="iOS" />
         </item>
         <item>
             <title>Version 2.0.7</title>
