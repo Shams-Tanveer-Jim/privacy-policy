@@ -3,16 +3,10 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.0.0</title>
-            <description>First Release</description>
-            <pubDate>Mon, 11 March 2024 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="1.0.0" sparkle:os="iOS" />
-        </item>
-        <item>
-            <title>Version 1.1.1</title>
-            <description>First Release</description>
-            <pubDate>Tue, 13 August 2024 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="1.1.1" sparkle:os="android" />
+            <title>Version 1.1.3</title>
+            <description>Third Release</description>
+            <pubDate>Sun, 15 September 2024 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaana.neustring" sparkle:version="1.1.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
