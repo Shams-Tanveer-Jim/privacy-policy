@@ -3,10 +3,10 @@
     <channel>
         <title>Nagorik</title>
         <item>
-            <title>Version 1.0.1</title>
-            <description>First Release</description>
+            <title>Version 1.0.2</title>
+            <description>Second Release</description>
             <pubDate>Mon, 20 March 2025 01:00:00 +0000</pubDate>
-            <enclosure url="https://drive.google.com/file/d/1HsMBqFjofceSQB0U5p3e-j0taDiBo9hB/view?usp=sharing" sparkle:version="1.0.1" sparkle:os="android" />
+            <enclosure url="https://drive.google.com/file/d/1uwRxVvAOR7xuhDCZRt-IR8rLcU5Pp1ov/view?usp=sharing" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
