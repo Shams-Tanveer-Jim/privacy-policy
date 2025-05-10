@@ -10,10 +10,10 @@
         </item>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.10</title>
-            <description>Update Issue Solved</description>
-            <pubDate>Fri, 18 April 2025 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.10" sparkle:os="iOS" />
+            <title>Version 1.1.11</title>
+            <description>Improved UI Performance</description>
+            <pubDate>Fri, 9 May 2025 01:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.11" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
