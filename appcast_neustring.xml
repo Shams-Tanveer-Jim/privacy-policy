@@ -3,10 +3,15 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.12</title>
-            <description>Bug Fixes. News Section Scroll Issue: On certain devices, the news content was scrolling behind the bottom menu, making it partially unreadable. This issue has been identified and resolved. The content now scrolls properly without overlapping the menu bar.</description>
-            <pubDate>Wed, 14 May 2025 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.12" sparkle:os="android" />
+            <title>Version 1.1.13</title>
+            <description>What’s New in Version 1.1.13+40
+                    1. Deal filters now show user names instead of IDs.
+                    2. Fixed alliance name not showing properly on the deal detail page.
+                    3. Corrected some wrong information in the deal detail view.
+                    4. Global map color issues for some countries have been resolved.
+                    5. Crimea is now correctly displayed as part of Ukraine.</description>
+            <pubDate>SAT, 28 June 2025 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.13" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
