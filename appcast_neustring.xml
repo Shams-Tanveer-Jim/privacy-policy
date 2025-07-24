@@ -13,21 +13,25 @@
                 * Commitment
                 * Over-commitment
                 * All inbound services (Voice, SMS, GPRS) are grouped and shown under Inbound
-                3. On the Deal Details page, all dates now follow the YYYY-MM format</description>
+                3. On the Deal Details page, all dates now follow the YYYY-MM format. </description>
             <pubDate>WED, 23 July 2025 03:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.14" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.13</title>
-            <description>What’s New in Version 1.1.13+40
-                    1. Deal filters now show user names instead of IDs.
-                    2. Fixed alliance name not showing properly on the deal detail page.
-                    3. Corrected some wrong information in the deal detail view.
-                    4. Global map color issues for some countries have been resolved.
-                    5. Crimea is now correctly displayed as part of Ukraine.</description>
-            <pubDate>Tue,1 July 2025 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.13" sparkle:os="iOS" />
+            <title>Version 1.1.14</title>
+            <description>What’s New in Version 1.1.14+41
+                1. The tax treatment message is now shown the same way for both inbound and outbound
+                2. The app now separates commitments into Inbound and Outbound. Each section will 
+                show only the relevant charges for:
+                * Incremental Charge Commitment
+                * Bundle Commitment
+                * Commitment
+                * Over-commitment
+                * All inbound services (Voice, SMS, GPRS) are grouped and shown under Inbound
+                3. On the Deal Details page, all dates now follow the YYYY-MM format. </description>
+            <pubDate>THU, 24 July 2025 11:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.14" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
