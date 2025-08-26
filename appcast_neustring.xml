@@ -3,19 +3,19 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.14</title>
-            <description>What’s New in Version 1.1.14+41
-                1. The tax treatment message is now shown the same way for both inbound and outbound
-                2. The app now separates commitments into Inbound and Outbound. Each section will 
-                show only the relevant charges for:
-                * Incremental Charge Commitment
-                * Bundle Commitment
-                * Commitment
-                * Over-commitment
-                * All inbound services (Voice, SMS, GPRS) are grouped and shown under Inbound
-                3. On the Deal Details page, all dates now follow the YYYY-MM format. </description>
+            <title>Version 1.1.15</title>
+            <description>What’s New in Version 1.1.15+42
+                Smarter Search: Quickly find operators and deals by name, code, ID, or alliance.
+                Improved Deal Details: See short partner codes, with full names available via info icon.
+                Mobile App Scenarios: Admins can set custom scenarios, making app data more flexible than the web dashboard.
+                Sorted Announcements & News: Latest updates now appear at the top.
+                
+                Fixes & Enhancements
+                1.Scenario changes apply across all pages.
+                2.Duplicate deals removed from search.
+                3.Alliance name search works correctly.</description>
             <pubDate>WED, 23 July 2025 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.14" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.15" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
