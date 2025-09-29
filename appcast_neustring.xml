@@ -3,35 +3,43 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.15</title>
-            <description>What’s New in Version 1.1.15+42
-                Smarter Search: Quickly find operators and deals by name, code, ID, or alliance.
-                Improved Deal Details: See short partner codes, with full names available via info icon.
-                Mobile App Scenarios: Admins can set custom scenarios, making app data more flexible than the web dashboard.
-                Sorted Announcements & News: Latest updates now appear at the top.
+            <title>Version 1.1.16</title>
+            <description>What’s New in v1.1.16+43
+                New Features
+                1.Commitment now shown directly in Deal Cards.
+                2.Deal Cards display current status.
+                3.New filter: sort deals by status.
+                4.Financial Overview shows only this year (Receivable/Payable).
+                5.Operator search includes PMN Code.
+                6.Alliance Name shown in Deal Cards.
                 
-                Fixes & Enhancements
-                1.Scenario changes apply across all pages.
-                2.Duplicate deals removed from search.
-                3.Alliance name search works correctly.</description>
-            <pubDate>WED, 27 Aug 2025 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.15" sparkle:os="android" />
+                Fixes & Improvements
+                1.Faster, more accurate search with partial match support.
+                2.Fixed layout issues on Samsung S23/S24/S25.
+                3.Search reset works properly.
+                4.Corrected Net Position values on Global Map.</description>
+            <pubDate>MON, 29 Sep 2025 03:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.16" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.15</title>
-            <description>What’s New in Version 1.1.15+42
-                Smarter Search: Quickly find operators and deals by name, code, ID, or alliance.
-                Improved Deal Details: See short partner codes, with full names available via info icon.
-                Mobile App Scenarios: Admins can set custom scenarios, making app data more flexible than the web dashboard.
-                Sorted Announcements & News: Latest updates now appear at the top.
-                
-                Fixes & Enhancements
-                1.Scenario changes apply across all pages.
-                2.Duplicate deals removed from search.
-                3.Alliance name search works correctly.</description>
-            <pubDate>WED, 27 Aug 2025 11:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.15" sparkle:os="iOS" />
+            <title>Version 1.1.16</title>
+            <description>What’s New in v1.1.16+43
+                    New Features
+                    1.Commitment now shown directly in Deal Cards.
+                    2.Deal Cards display current status.
+                    3.New filter: sort deals by status.
+                    4.Financial Overview shows only this year (Receivable/Payable).
+                    5.Operator search includes PMN Code.
+                    6.Alliance Name shown in Deal Cards.
+                    
+                    Fixes & Improvements
+                    1.Faster, more accurate search with partial match support.
+                    2.Fixed layout issues on Samsung S23/S24/S25.
+                    3.Search reset works properly.
+                    4.Corrected Net Position values on Global Map.</description>
+            <pubDate>MON, 29 Sep 2025 11:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.16" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
