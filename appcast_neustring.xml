@@ -3,23 +3,24 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.16</title>
-            <description>What’s New in v1.1.16+43
-                New Features
-                1.Commitment now shown directly in Deal Cards.
-                2.Deal Cards display current status.
-                3.New filter: sort deals by status.
-                4.Financial Overview shows only this year (Receivable/Payable).
-                5.Operator search includes PMN Code.
-                6.Alliance Name shown in Deal Cards.
-                
-                Fixes & Improvements
-                1.Faster, more accurate search with partial match support.
-                2.Fixed layout issues on Samsung S23/S24/S25.
-                3.Search reset works properly.
-                4.Corrected Net Position values on Global Map.</description>
+            <title>Version 1.1.17</title>
+            <description>What’s New in v1.1.17+44
+                    1.Active scenario shown on Settings page
+                    2.Operator & alliance info listed with active periods
+                    3.Only deals from the selected scenario are displayed
+                    4.Unified number formatting:
+                     4–6 digits → full number
+                     7–9 digits → M (2 decimals)
+                     10–12 digits → B (2 decimals)
+                    5.“Clear All” button added to deal status filter
+                    
+                    Fixes:
+                    1.Corrected country deal counts
+                    2.Faster login (2–5s)
+                    3.Days to expire calculation fixed, including leap years
+                    4.Standardized deal card formatting</description>
             <pubDate>MON, 29 Sep 2025 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.16" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.17" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
