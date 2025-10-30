@@ -5,7 +5,7 @@
         <item>
             <title>Version 1.1.17</title>
             <description>
-                What’s New in v1.1.17+44
+                What’s New in v1.1.17+45
                     1.Active scenario shown on Settings page
                     2.Operator & alliance info listed with active periods
                     3.Only deals from the selected scenario are displayed
@@ -28,7 +28,7 @@
         <title>NeuString</title>
         <item>
             <title>Version 1.1.17</title>
-            <description>What’s New in v1.1.17+44
+            <description>What’s New in v1.1.17+45
                     1.Active scenario shown on Settings page
                     2.Operator & alliance info listed with active periods
                     3.Only deals from the selected scenario are displayed
@@ -43,7 +43,7 @@
                     2.Faster login (2–5s)
                     3.Days to expire calculation fixed, including leap years
                     4.Standardized deal card formatting</description>
-            <pubDate>MON, 29 Sep 2025 11:00:00 +0000</pubDate>
+            <pubDate>THU, 30 Oct 2025 11:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.17" sparkle:os="iOS" />
         </item>
     </channel>
