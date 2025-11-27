@@ -3,27 +3,18 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.17</title>
+            <title>Version 1.1.18</title>
             <description>
-                What’s New in v1.1.17+45
-                    1.Active scenario shown on Settings page
-                    2.Operator & alliance info listed with active periods
-                    3.Only deals from the selected scenario are displayed
-                    4.Unified number formatting:
-                     4–6 digits → full number
-                     7–9 digits → M (2 decimals)
-                     10–12 digits → B (2 decimals)
-                    5.“Clear All” button added to deal status filter
+                What’s New (v1.1.18+46)
+                    • Added Top Deals view for full visibility of deal performance, including rankings, operator breakdowns, and detailed deal modal.
+                    • Improved navigation with faster app launch (1–1.5s) and login (3–4s).
                     
-                    Fixes:
-                    1.Corrected country deal counts
-                    2.Faster login (2–5s)
-                    3.Days to expire calculation fixed, including leap years
-                    4.Standardized deal card formatting
-                    5.The application now fully supports devices with a 16KB memory page size, ensuring improved performance and stability on a broader range of hardware
-</description>
-            <pubDate>WED, 29 Oct 2025 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.17" sparkle:os="android" />
+                    Fixes & Enhancements
+                    • Updated Previous Year and Current Year calculations for countries and operators using Charge Net.
+                    • Growth % now follows updated rules, including proper handling when Previous Year = 0.
+            </description>
+            <pubDate>THU,27 Nov 2025 03:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.18" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
