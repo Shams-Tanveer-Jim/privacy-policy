@@ -18,24 +18,17 @@
         </item>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.17</title>
-            <description>What’s New in v1.1.17+45
-                    1.Active scenario shown on Settings page
-                    2.Operator & alliance info listed with active periods
-                    3.Only deals from the selected scenario are displayed
-                    4.Unified number formatting:
-                     4–6 digits → full number
-                     7–9 digits → M (2 decimals)
-                     10–12 digits → B (2 decimals)
-                    5.“Clear All” button added to deal status filter
+            <title>Version 1.1.18</title>
+            <description>What’s New (v1.1.18+46)
+                    • Added Top Deals view for full visibility of deal performance, including rankings, operator breakdowns, and detailed deal modal.
+                    • Improved navigation with faster app launch (1–1.5s) and login (3–4s).
                     
-                    Fixes:
-                    1.Corrected country deal counts
-                    2.Faster login (2–5s)
-                    3.Days to expire calculation fixed, including leap years
-                    4.Standardized deal card formatting</description>
-            <pubDate>THU, 30 Oct 2025 11:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.17" sparkle:os="iOS" />
+                    Fixes & Enhancements
+                    • Updated Previous Year and Current Year calculations for countries and operators using Charge Net.
+                    • Growth % now follows updated rules, including proper handling when Previous Year = 0.
+            </description>
+            <pubDate>FRI, 28 Nov 2025 11:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.18" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
