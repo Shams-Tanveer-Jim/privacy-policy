@@ -3,18 +3,21 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.18</title>
+            <title>Version 1.1.19</title>
             <description>
-                What’s New (v1.1.18+46)
-                    • Added Top Deals view for full visibility of deal performance, including rankings, operator breakdowns, and detailed deal modal.
-                    • Improved navigation with faster app launch (1–1.5s) and login (3–4s).
+                What’s New
+                    1. New Landing Page: New mobile News landing page with Industry News and Insight Reports.
+                    2. Login Button: Login added at the bottom of the landing page.
+                    3. Deal Visibility (Admin): Control which deal statuses appear in the mobile app.
+                    4. Image Upload (Admin): Image upload supported for News & Announcements.
                     
                     Fixes & Enhancements
-                    • Updated Previous Year and Current Year calculations for countries and operators using Charge Net.
-                    • Growth % now follows updated rules, including proper handling when Previous Year = 0.
+                    1. Revenue & Cost now use realized net charges (incl. tax).
+                    2. Last Year's values corrected to full-year net charges.
+                    3. Effective Price and TAP values aligned.
             </description>
             <pubDate>THU,27 Nov 2025 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.18" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.19" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
