@@ -21,17 +21,21 @@
         </item>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.18</title>
-            <description>What’s New (v1.1.18+46)
-                    • Added Top Deals view for full visibility of deal performance, including rankings, operator breakdowns, and detailed deal modal.
-                    • Improved navigation with faster app launch (1–1.5s) and login (3–4s).
+            <title>Version 1.1.19</title>
+            <description>
+                What’s New
+                    1. New Landing Page: New mobile News landing page with Industry News and Insight Reports.
+                    2. Login Button: Login added at the bottom of the landing page.
+                    3. Deal Visibility (Admin): Control which deal statuses appear in the mobile app.
+                    4. Image Upload (Admin): Image upload supported for News & Announcements.
                     
                     Fixes & Enhancements
-                    • Updated Previous Year and Current Year calculations for countries and operators using Charge Net.
-                    • Growth % now follows updated rules, including proper handling when Previous Year = 0.
+                    1. Revenue & Cost now use realized net charges (incl. tax).
+                    2. Last Year's values corrected to full-year net charges.
+                    3. Effective Price and TAP values aligned.
             </description>
             <pubDate>FRI, 28 Nov 2025 11:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.18" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.19" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
