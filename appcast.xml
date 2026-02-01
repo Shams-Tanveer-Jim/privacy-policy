@@ -4,27 +4,22 @@
         <title>Smart Election Management BD</title>
         <item>
             <title>Version 3.0.2</title>
-            <description>What’s New in Version 3.0.2
-                    1. Optimized User Experience – smoother navigation and more intuitive interactions.
-                    2. Bug Fixes – previous issues resolved for a more stable and reliable app.
-                    3. Latest Election Data – all new election information uploaded and ready to view.
-                    4. Faster Performance – enjoy quicker responses and faster loading times.
-                    5. Improved Reliability – overall app stability has been enhanced for a seamless experience.</description>
+            <description>What’s New in Version 3.0.3
+                            1. Corrected spelling issues across the app
+                            2. Fixed some UI rendering issues affecting certain devices
+            </description>
             <pubDate>WED, 28 Jan 2026 01:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="3.0.2" sparkle:os="iOS" />
         </item>
         <item>
-            <title>Version 3.0.2</title>
+            <title>Version 3.0.3</title>
             <description>
-                What’s New in Version 3.0.2
-                    1. Optimized User Experience – smoother navigation and more intuitive interactions.
-                    2. Bug Fixes – previous issues resolved for a more stable and reliable app.
-                    3. Latest Election Data – all new election information uploaded and ready to view.
-                    4. Faster Performance – enjoy quicker responses and faster loading times.
-                    5. Improved Reliability – overall app stability has been enhanced for a seamless experience.
+                What’s New in Version 3.0.3
+                    1. Corrected spelling issues across the app
+                    2. Fixed some UI rendering issues affecting certain devices
             </description>
             <pubDate>WED, 28 Jan 2026 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="3.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="3.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
