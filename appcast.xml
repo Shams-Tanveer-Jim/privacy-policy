@@ -4,24 +4,25 @@
         <title>Smart Election Management BD</title>
         <item>
             <title>Version 3.0.4</title>
-            <description>What’s New
-                    1. Update popup will now remain visible until the app is updated
-                    2. UI fixes for a smoother experience
-                    3. Improved handling of voting center search issues
+            <description>
+                What’s New:
+                    • Performance improvements through optimized caching
+                    • UI issues have been resolved
+                    • Minor spelling corrections
             </description>
             <pubDate>FRI, 6 Feb 2026 01:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="3.0.4" sparkle:os="iOS" />
         </item>
         <item>
-            <title>Version 3.0.4</title>
+            <title>Version 3.0.5</title>
             <description>
-                What’s New
-                    1. Update popup will now remain visible until the app is updated
-                    2. UI fixes for a smoother experience
-                    3. Improved handling of voting center search issues
+                What’s New:
+                    • Performance improvements through optimized caching
+                    • UI issues have been resolved
+                    • Minor spelling corrections
             </description>
-            <pubDate>SAT, 7 Feb 2026 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="3.0.4" sparkle:os="android" />
+            <pubDate>TUE, 9 Feb 2026 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="3.0.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
