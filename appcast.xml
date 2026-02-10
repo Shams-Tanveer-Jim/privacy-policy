@@ -3,7 +3,7 @@
     <channel>
         <title>Smart Election Management BD</title>
         <item>
-            <title>Version 3.0.4</title>
+            <title>Version 3.0.5</title>
             <description>
                 What’s New:
                     • Performance improvements through optimized caching
@@ -11,7 +11,7 @@
                     • Minor spelling corrections
             </description>
             <pubDate>FRI, 6 Feb 2026 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="3.0.4" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="3.0.5" sparkle:os="iOS" />
         </item>
         <item>
             <title>Version 3.0.5</title>
