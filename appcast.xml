@@ -3,26 +3,22 @@
     <channel>
         <title>Smart Election Management BD</title>
         <item>
-            <title>Version 3.0.5</title>
-            <description>
-                What’s New:
-                    • Performance improvements through optimized caching
-                    • UI issues have been resolved
-                    • Minor spelling corrections
+            <title>Version 3.0.6</title>
+            <description>What's New:
+                    1. Fixed the issue with the vote start time
+                    2. Resolved minor UI issues for a smoother experience
             </description>
-            <pubDate>TUE, 9 Feb 2026 01:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="3.0.5" sparkle:os="iOS" />
+            <pubDate>WED, 11 Feb 2026 01:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/smart-election-management-bd/id6473368591" sparkle:version="3.0.6" sparkle:os="iOS" />
         </item>
         <item>
-            <title>Version 3.0.5</title>
-            <description>
-                What’s New:
-                    • Performance improvements through optimized caching
-                    • UI issues have been resolved
-                    • Minor spelling corrections
+            <title>Version 3.0.6</title>
+            <description>What's New:
+                    1. Fixed the issue with the vote start time
+                    2. Resolved minor UI issues for a smoother experience
             </description>
-            <pubDate>TUE, 9 Feb 2026 01:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="3.0.5" sparkle:os="android" />
+            <pubDate>WED, 11 Feb 2026 01:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.electioncommissionsecretariat.sembd" sparkle:version="3.0.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
