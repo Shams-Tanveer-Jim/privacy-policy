@@ -3,30 +3,42 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.20</title>
+            <title>Version 1.1.21</title>
             <description>
                What’s New:
-                    1. Improved sorting logic in Top Deals & Deal breakdowns
-                    2. Consistent number formatting across pages
-                    3. Updated Global Map Total value logic
-                    4. Deal status configuration applied on Deal Page
-                    5. IOT rates now show 3 decimals
-                    6. Bug fixes: Top Deal Cost filter & Walkthrough button
+                   Enhancements
+                    1. Updated Global Map Inbound revenue & Outbound cost calculation
+                    2. Fixed Deals currency alignment
+                    3. Added network details modal
+                    4. Implemented Top Deals filtering to show only mobile enabled deals.
+                    
+                    Bug Fixes
+                    1. Improved Deals page performance
+                    2. Fixed currency mismatch
+                    
+                    Security Hotfix
+                    Biometric login storage improved using secured storage
             </description>
             <pubDate>Wed,28 Jan 2026 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.20" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.21" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
             <title>Version 1.1.20</title>
             <description>
                 What’s New:
-                    1. Improved sorting logic in Top Deals & Deal breakdowns
-                    2. Consistent number formatting across pages
-                    3. Updated Global Map Total value logic
-                    4. Deal status configuration applied on Deal Page
-                    5. IOT rates now show 3 decimals
-                    6. Bug fixes: Top Deal Cost filter & Walkthrough button
+                    Enhancements
+                    1. Updated Global Map Inbound revenue & Outbound cost calculation
+                    2. Fixed Deals currency alignment
+                    3. Added network details modal
+                    4. Implemented Top Deals filtering to show only mobile enabled deals.
+                    
+                    Bug Fixes
+                    1. Improved Deals page performance
+                    2. Fixed currency mismatch
+                    
+                    Security Hotfix
+                    Biometric login storage improved using secured storage
             </description>
             <pubDate>Wed,28 Jan 2026 03:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.20" sparkle:os="iOS" />
