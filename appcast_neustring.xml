@@ -3,24 +3,16 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.21</title>
+            <title>Version 1.1.22</title>
             <description>
                What’s New:
-                   Enhancements
-                    1. Updated Global Map Inbound revenue & Outbound cost calculation
-                    2. Fixed Deals currency alignment
-                    3. Added network details modal
-                    4. Implemented Top Deals filtering to show only mobile enabled deals.
+                    Added Statement Details in Deals with full agreed rate info, inbound/outbound tabs, and sub-statement breakdowns.
                     
-                    Bug Fixes
-                    1. Improved Deals page performance
-                    2. Fixed currency mismatch
-                    
-                    Security Hotfix
-                    Biometric login storage improved using secured storage
+                    Improvements:
+                    Deals with same expiry are now sorted by Deal ID (descending) for consistent ordering.
             </description>
-            <pubDate>FRI,13 March 2026 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.21" sparkle:os="android" />
+            <pubDate>THUR,02 April 2026 03:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.22" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
