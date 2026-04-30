@@ -3,16 +3,15 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.22</title>
+            <title>Version 1.1.23</title>
             <description>
                What’s New:
-                    Added Statement Details in Deals with full agreed rate info, inbound/outbound tabs, and sub-statement breakdowns.
-                    
-                    Improvements:
-                    Deals with same expiry are now sorted by Deal ID (descending) for consistent ordering.
+                    1. Added role-based access for Business & Financial Overview Page
+                    2. Users now see only permitted network and deal data
+                    3. Performance improvements and bug fixes
             </description>
-            <pubDate>THUR,02 April 2026 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.22" sparkle:os="android" />
+            <pubDate>THUR,30 April 2026 03:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.23" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
