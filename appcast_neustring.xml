@@ -3,33 +3,24 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.23</title>
+            <title>Version 1.1.24</title>
             <description>
-               What’s New:
-                    1. Added role-based access for Business & Financial Overview Page
-                    2. Users now see only permitted network and deal data
-                    3. Performance improvements and bug fixes
+               What’s New
+                    1. Added role-based access control on Country and Operator Details pages, so users only see data based on their permissions.
+                    2. Improved multiple network display in Deal Details. The app now shows the first 3 networks and a “+ X” count for additional networks.
+                    3. Fixed discount value formatting in Deal Details. Percentage and IVC discounts no longer show currency symbols, while amount-based discounts show the correct currency.
             </description>
             <pubDate>THUR,30 April 2026 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.23" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.24" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
             <title>Version 1.1.21</title>
             <description>
-                What’s New:
-                    Enhancements
-                    1. Updated Global Map Inbound revenue & Outbound cost calculation
-                    2. Fixed Deals currency alignment
-                    3. Added network details modal
-                    4. Implemented Top Deals filtering to show only mobile enabled deals.
-                    
-                    Bug Fixes
-                    1. Improved Deals page performance
-                    2. Fixed currency mismatch
-                    
-                    Security Hotfix
-                    Biometric login storage improved using secured storage
+                What’s New
+                    1. Added role-based access control on Country and Operator Details pages, so users only see data based on their permissions.
+                    2. Improved multiple network display in Deal Details. The app now shows the first 3 networks and a “+ X” count for additional networks.
+                    3. Fixed discount value formatting in Deal Details. Percentage and IVC discounts no longer show currency symbols, while amount-based discounts show the correct currency.
             </description>
             <pubDate>FRI,13 March 2026 03:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/au/app/neustring/id6737253838" sparkle:version="1.1.21" sparkle:os="iOS" />
