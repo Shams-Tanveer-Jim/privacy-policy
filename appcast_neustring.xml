@@ -10,7 +10,7 @@
                     2. Improved multiple network display in Deal Details. The app now shows the first 3 networks and a “+ X” count for additional networks.
                     3. Fixed discount value formatting in Deal Details. Percentage and IVC discounts no longer show currency symbols, while amount-based discounts show the correct currency.
             </description>
-            <pubDate>THUR,30 April 2026 03:00:00 +0000</pubDate>
+            <pubDate>Monday,1 June 2026 03:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.24" sparkle:os="android" />
         </item>
         <title>NeuString</title>
