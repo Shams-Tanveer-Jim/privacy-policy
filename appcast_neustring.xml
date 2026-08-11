@@ -3,15 +3,15 @@
     <channel>
         <title>NeuString</title>
         <item>
-            <title>Version 1.1.24</title>
+            <title>Version 1.1.26</title>
             <description>
                What’s New
-                    1. Added role-based access control on Country and Operator Details pages, so users only see data based on their permissions.
-                    2. Improved multiple network display in Deal Details. The app now shows the first 3 networks and a “+ X” count for additional networks.
-                    3. Fixed discount value formatting in Deal Details. Percentage and IVC discounts no longer show currency symbols, while amount-based discounts show the correct currency.
+                    1. Role-Based Access on Deals: Deal information is now displayed based on user permissions, with full access for Superusers and restricted access for other users.
+                    2. Improved Top Deals Search: Search Top Deals by Deal ID, Operator Name, or Alliance Name. Partial and full Deal ID searches are now supported, with direct access to Deal Details.
+                    3. Stability & Performance: Improved overall app stability, performance, security, and reliability across Deals, Dashboard, Notifications, and Authentication.
             </description>
-            <pubDate>Monday,1 June 2026 03:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.24" sparkle:os="android" />
+            <pubDate>Tuesday,11 Aug 2026 03:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.yaanallc.neustring" sparkle:version="1.1.26" sparkle:os="android" />
         </item>
         <title>NeuString</title>
         <item>
